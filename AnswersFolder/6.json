@@ -1,0 +1,75 @@
+{
+  "student" : {
+    "studentId" : 6,
+    "studentsName" : "Allie",
+    "studentsSurname" : "Mraz"
+  },
+  "exam" : {
+    "examID" : 1,
+    "examName" : "PL/I – ISO 6160",
+    "dateTime" : [ 2023, 2, 9, 18, 43, 17, 902848500 ],
+    "examType" : "TEST"
+  },
+  "dateTime" : [ 2023, 2, 9, 19, 56, 18, 166554100 ],
+  "studentAnswers" : [ {
+    "answerID" : 1,
+    "answer" : "c"
+  }, {
+    "answerID" : 2,
+    "answer" : "b"
+  }, {
+    "answerID" : 3,
+    "answer" : "e"
+  }, {
+    "answerID" : 4,
+    "answer" : "a"
+  }, {
+    "answerID" : 5,
+    "answer" : "b"
+  }, {
+    "answerID" : 6,
+    "answer" : "a"
+  }, {
+    "answerID" : 7,
+    "answer" : "c"
+  }, {
+    "answerID" : 8,
+    "answer" : "e"
+  }, {
+    "answerID" : 9,
+    "answer" : "c"
+  }, {
+    "answerID" : 10,
+    "answer" : "d"
+  }, {
+    "answerID" : 11,
+    "answer" : "d"
+  }, {
+    "answerID" : 12,
+    "answer" : "d"
+  }, {
+    "answerID" : 13,
+    "answer" : "f"
+  }, {
+    "answerID" : 14,
+    "answer" : "c"
+  }, {
+    "answerID" : 15,
+    "answer" : "f"
+  }, {
+    "answerID" : 16,
+    "answer" : "a"
+  }, {
+    "answerID" : 17,
+    "answer" : "c"
+  }, {
+    "answerID" : 18,
+    "answer" : "a"
+  }, {
+    "answerID" : 19,
+    "answer" : "f"
+  }, {
+    "answerID" : 20,
+    "answer" : "b"
+  } ]
+}

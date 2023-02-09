@@ -1,0 +1,75 @@
+{
+  "student" : {
+    "studentId" : 31,
+    "studentsName" : "Clair",
+    "studentsSurname" : "Skiles"
+  },
+  "exam" : {
+    "examID" : 2,
+    "examName" : "S",
+    "dateTime" : [ 2023, 2, 9, 18, 43, 17, 953446900 ],
+    "examType" : "TEST"
+  },
+  "dateTime" : [ 2023, 2, 9, 20, 28, 18, 181084100 ],
+  "studentAnswers" : [ {
+    "answerID" : 1,
+    "answer" : "c"
+  }, {
+    "answerID" : 2,
+    "answer" : "c"
+  }, {
+    "answerID" : 3,
+    "answer" : "d"
+  }, {
+    "answerID" : 4,
+    "answer" : "d"
+  }, {
+    "answerID" : 5,
+    "answer" : "e"
+  }, {
+    "answerID" : 6,
+    "answer" : "d"
+  }, {
+    "answerID" : 7,
+    "answer" : "a"
+  }, {
+    "answerID" : 8,
+    "answer" : "d"
+  }, {
+    "answerID" : 9,
+    "answer" : "e"
+  }, {
+    "answerID" : 10,
+    "answer" : "f"
+  }, {
+    "answerID" : 11,
+    "answer" : "d"
+  }, {
+    "answerID" : 12,
+    "answer" : "a"
+  }, {
+    "answerID" : 13,
+    "answer" : "c"
+  }, {
+    "answerID" : 14,
+    "answer" : "f"
+  }, {
+    "answerID" : 15,
+    "answer" : "b"
+  }, {
+    "answerID" : 16,
+    "answer" : "d"
+  }, {
+    "answerID" : 17,
+    "answer" : "a"
+  }, {
+    "answerID" : 18,
+    "answer" : "a"
+  }, {
+    "answerID" : 19,
+    "answer" : "f"
+  }, {
+    "answerID" : 20,
+    "answer" : "c"
+  } ]
+}

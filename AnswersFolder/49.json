@@ -1,0 +1,75 @@
+{
+  "student" : {
+    "studentId" : 49,
+    "studentsName" : "Cecelia",
+    "studentsSurname" : "Ratke"
+  },
+  "exam" : {
+    "examID" : 3,
+    "examName" : "ABAP",
+    "dateTime" : [ 2023, 2, 9, 18, 43, 17, 953446900 ],
+    "examType" : "TEST"
+  },
+  "dateTime" : [ 2023, 2, 9, 19, 14, 18, 187598500 ],
+  "studentAnswers" : [ {
+    "answerID" : 1,
+    "answer" : "e"
+  }, {
+    "answerID" : 2,
+    "answer" : "c"
+  }, {
+    "answerID" : 3,
+    "answer" : "c"
+  }, {
+    "answerID" : 4,
+    "answer" : "f"
+  }, {
+    "answerID" : 5,
+    "answer" : "b"
+  }, {
+    "answerID" : 6,
+    "answer" : "b"
+  }, {
+    "answerID" : 7,
+    "answer" : "a"
+  }, {
+    "answerID" : 8,
+    "answer" : "b"
+  }, {
+    "answerID" : 9,
+    "answer" : "c"
+  }, {
+    "answerID" : 10,
+    "answer" : "f"
+  }, {
+    "answerID" : 11,
+    "answer" : "b"
+  }, {
+    "answerID" : 12,
+    "answer" : "d"
+  }, {
+    "answerID" : 13,
+    "answer" : "b"
+  }, {
+    "answerID" : 14,
+    "answer" : "a"
+  }, {
+    "answerID" : 15,
+    "answer" : "e"
+  }, {
+    "answerID" : 16,
+    "answer" : "d"
+  }, {
+    "answerID" : 17,
+    "answer" : "f"
+  }, {
+    "answerID" : 18,
+    "answer" : "d"
+  }, {
+    "answerID" : 19,
+    "answer" : "b"
+  }, {
+    "answerID" : 20,
+    "answer" : "e"
+  } ]
+}

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lt.code.academy.ReadFoldersTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.2 s - in lt.code.academy.ReadFoldersTest

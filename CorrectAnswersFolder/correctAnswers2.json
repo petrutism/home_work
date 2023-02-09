@@ -1,0 +1,69 @@
+{
+  "exam" : {
+    "examID" : 2,
+    "examName" : "S",
+    "dateTime" : [ 2023, 2, 9, 18, 43, 17, 953446900 ],
+    "examType" : "TEST"
+  },
+  "correctAnswers" : [ {
+    "answerID" : 1,
+    "answer" : "f"
+  }, {
+    "answerID" : 2,
+    "answer" : "e"
+  }, {
+    "answerID" : 3,
+    "answer" : "c"
+  }, {
+    "answerID" : 4,
+    "answer" : "a"
+  }, {
+    "answerID" : 5,
+    "answer" : "f"
+  }, {
+    "answerID" : 6,
+    "answer" : "f"
+  }, {
+    "answerID" : 7,
+    "answer" : "d"
+  }, {
+    "answerID" : 8,
+    "answer" : "c"
+  }, {
+    "answerID" : 9,
+    "answer" : "d"
+  }, {
+    "answerID" : 10,
+    "answer" : "b"
+  }, {
+    "answerID" : 11,
+    "answer" : "b"
+  }, {
+    "answerID" : 12,
+    "answer" : "a"
+  }, {
+    "answerID" : 13,
+    "answer" : "f"
+  }, {
+    "answerID" : 14,
+    "answer" : "f"
+  }, {
+    "answerID" : 15,
+    "answer" : "b"
+  }, {
+    "answerID" : 16,
+    "answer" : "b"
+  }, {
+    "answerID" : 17,
+    "answer" : "b"
+  }, {
+    "answerID" : 18,
+    "answer" : "a"
+  }, {
+    "answerID" : 19,
+    "answer" : "b"
+  }, {
+    "answerID" : 20,
+    "answer" : "c"
+  } ]
+}
