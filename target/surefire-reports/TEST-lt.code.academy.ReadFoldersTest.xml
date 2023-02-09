@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="lt.code.academy.ReadFoldersTest" time="0.2" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="lt.code.academy.ReadFoldersTest" time="0.23" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="19"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="LT"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\diggi\AppData\Local\Temp\surefire5348491912881156031\surefirebooter-20230206181941946_3.jar C:\Users\diggi\AppData\Local\Temp\surefire5348491912881156031 2023-02-06T18-19-41_577-jvmRun1 surefire-20230206181941946_1tmp surefire_0-20230206181941946_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\diggi\AppData\Local\Temp\surefire1322345284885902792\surefirebooter-20230209190115548_3.jar C:\Users\diggi\AppData\Local\Temp\surefire1322345284885902792 2023-02-09T19-01-15_152-jvmRun1 surefire-20230209190115548_1tmp surefire_0-20230209190115548_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\diggi\OneDrive\Dokumentai\Mokslai_db\Projektai\OOP\Maven\home_work\target\test-classes;C:\Users\diggi\OneDrive\Dokumentai\Mokslai_db\Projektai\OOP\Maven\home_work\target\classes;C:\Users\diggi\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.1\jackson-databind-2.14.1.jar;C:\Users\diggi\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.1\jackson-annotations-2.14.1.jar;C:\Users\diggi\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.1\jackson-core-2.14.1.jar;C:\Users\diggi\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.14.1\jackson-datatype-jsr310-2.14.1.jar;C:\Users\diggi\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\diggi\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\diggi\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\diggi\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\diggi\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\diggi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\diggi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\diggi\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\diggi\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\diggi\.m2\repository\org\mockito\mockito-core\5.0.0\mockito-core-5.0.0.jar;C:\Users\diggi\.m2\repository\net\bytebuddy\byte-buddy\1.12.22\byte-buddy-1.12.22.jar;C:\Users\diggi\.m2\repository\net\bytebuddy\byte-buddy-agent\1.12.22\byte-buddy-agent-1.12.22.jar;C:\Users\diggi\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\diggi\.m2\repository\org\mockito\mockito-junit-jupiter\5.0.0\mockito-junit-jupiter-5.0.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\diggi\AppData\Local\Temp\surefire5348491912881156031\surefirebooter-20230206181941946_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\diggi\AppData\Local\Temp\surefire1322345284885902792\surefirebooter-20230209190115548_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="19.0.1+10-21"/>
@@ -59,8 +59,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="63.0"/>
   </properties>
-  <testcase name="testForCorrectBehaviorIfFolderDoesNotExist" classname="lt.code.academy.ReadFoldersTest" time="0.052"/>
-  <testcase name="testForCorrectNumberOfFilesInCorrectAnswersFolder" classname="lt.code.academy.ReadFoldersTest" time="0.052"/>
-  <testcase name="testForCorrectNumberOfFilesInAnswersFolder" classname="lt.code.academy.ReadFoldersTest" time="0.048"/>
-  <testcase name="testForCorrectBehaviorIfFolderExist" classname="lt.code.academy.ReadFoldersTest" time="0.047"/>
+  <testcase name="testForCorrectBehaviorIfFolderDoesNotExist" classname="lt.code.academy.ReadFoldersTest" time="0.096"/>
+  <testcase name="testForCorrectNumberOfFilesInCorrectAnswersFolder" classname="lt.code.academy.ReadFoldersTest" time="0.042"/>
+  <testcase name="testForCorrectNumberOfFilesInAnswersFolder" classname="lt.code.academy.ReadFoldersTest" time="0.044"/>
+  <testcase name="testForCorrectBehaviorIfFolderExist" classname="lt.code.academy.ReadFoldersTest" time="0.044"/>
 </testsuite>
